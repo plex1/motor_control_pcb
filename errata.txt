@@ -1,0 +1,5 @@
+put silkscreen 5V+ 5V-
+footprint for astart not 100% correct with positions of the pins in the top row
+tracks for phases to J5 are missing on bottom layer
+lm317 dorpout of 3V recommended. Idea was to use 4.3V for motor -> dropout only 0.7
+also the voltage divider on lm317 has wrong values (vref = 1.25V, vref between output and adjust)
