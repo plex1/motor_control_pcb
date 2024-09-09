@@ -2,7 +2,7 @@
 
 Mainly an carrier for the follwing modules:
 - 1x A-Star 328PB Micro (compatible with Arduino)
-- 2x DRV8834 (Low-Voltage Stepper Motor Driver)
+- 2x DRV8834 module, [DRV8834 Low-Voltage Stepper Motor Driver Carrier](https://www.pololu.com/product/2134)
 
 ## Libraries
 
